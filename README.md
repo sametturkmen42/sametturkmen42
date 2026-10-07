@@ -1,16 +1,27 @@
-## Hi there 👋
 
-<!--
-**sametturkmen42/sametturkmen42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Merhaba, ben Samed 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Konya Teknik Üniversitesi'nde Elektrik-Elektronik Mühendisliği öğrencisiyim. Gömülü sistemler, görüntü işleme ve otomasyon alanlarıyla ilgileniyorum.
+
+## ✅ Tamamladığım projeler
+
+### Yüz Tanıma Tabanlı Akıllı Kapı Kilidi
+- **Nasıl çalışıyor:** Kamera kapıdaki kişinin yüzünü yakalar, Python'daki görüntü işleme kodu bunu kayıtlı yüzlerle karşılaştırır. Eşleşme varsa kilit açılır, durum dokunmatik ekranda görünür.
+- **Kullanılanlar:** Raspberry Pi 5, kamera, dokunmatik ekran, Python 
+
+
+## 🔭 Üzerinde çalıştığım proje
+
+### Akıllı Konveyör Ayıklama Sistemi 
+- **Nasıl çalışıyor:** Konveyör bantta ilerleyen ürünleri kamera görüntüler. Sistem ürünün rengini ve hatalı olup olmadığını tespit eder, hatalı ürünleri ayırır, sağlam ürünleri renge göre ilgili hazneye yönlendirir.
+- **Kullanılacaklar:** STM32 ve Raspberry Pi tabanlı kontrol, kamera, ayırma mekanizması
+- Geliştirme aşamasında.
+
+## 🛠️ Teknolojiler
+<!-- Sadece gerçekten kullandıklarını bırak, gerisini sil -->
+C, Python, OpenCV, Raspberry Pi, STM32
+
+## 📫 İletişim
+<!-- Kendi LinkedIn linkini yaz -->
+- LinkedIn: [Samed Türkmen](www.linkedin.com/in/samed-türkmen-7142703a1)
